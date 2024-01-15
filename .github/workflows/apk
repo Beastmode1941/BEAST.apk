@@ -1,0 +1,7 @@
+ 
+    cache: # optional, default is true
+    # Used to specify the path to a dependency file - go.sum
+    cache-dependency-path: # optional
+    # Target architecture for Go to use. Examples: x86, x64. Will use system architecture by default.
+    architecture: # optional
+          
